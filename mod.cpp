@@ -1,0 +1,10 @@
+name = "Desolation Redux - key addon test";
+author = "Desolation Redux Dev Team";
+action = "http://www.desolationredux.com/";
+dir = "@dr_keys";
+logo = "logo.paa";
+logoOver = "";
+picture = "";
+hidePicture = 0;
+hideName = 0;
+overview = "";
